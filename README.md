@@ -1,5 +1,4 @@
 # Robust Semi-supervised Federated Learning for Images Automatic Recognition in Internet of Drones
-Author: Zhe Zhang, Shiyao Ma, Zhaohui Yang, Zehui Xiong, Jiawen Kang, Yi Wu, Kejia Zhang, Dusit Niyato, Fellow, IEEE
 ## Abstract
 In this paper, we design a Semi-supervised Federated Learning (SSFL) framework for privacy-preserving UAV image recognition.
 ## Dataset
